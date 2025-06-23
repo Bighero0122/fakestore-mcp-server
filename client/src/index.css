@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-900 antialiased;
+  }
+}
+
+@layer components {
+  .error-banner {
+    @apply bg-red-500 text-white p-4 mb-4 rounded-lg flex justify-between items-center;
+  }
+
+  .loading {
+    @apply flex justify-center items-center p-8 text-gray-500;
+  }
+}
