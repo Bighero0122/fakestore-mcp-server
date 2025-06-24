@@ -6,6 +6,10 @@ A complete MCP (Model Context Protocol) server and React client implementation f
 
 This project implements all required MCP server functionality with a modern TypeScript stack:
 
+## Demo Loom Link
+
+https://www.loom.com/share/9c123e1acd1148de890be2aadf65c94b?sid=29cd007d-0311-4d1f-9411-b458015fbdb3
+
 ### ✅ Core Requirements
 - **User Authentication** - Login with username/password
 - **Cart Management** - Add/remove items with quantity control
